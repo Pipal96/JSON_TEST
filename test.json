@@ -1,15 +1,15 @@
 [{
     "productName": "small burger",
-    "productPrice": "50",
-    "productKCALS": "20",
+    "productPrice": 50,
+    "productKCALS": 20,
     "productImg": "https://barthepub.ru/image/cache/catalog/%20меню/goryachee/super.ua-1539794668-280x243.jpg",
-    "productId": "0"
+    "productId": 0
 },
 {
     "productName": "big burger",
-    "productPrice": "100",
-    "productKCALS": "50",
+    "productPrice": 100,
+    "productKCALS": 50,
     "productImg": "https://i.pinimg.com/236x/96/ca/f8/96caf85943cb56a886243b78325a3cf8.jpg",
-    "productId": "1"
+    "productId": 1
 }
 ]
